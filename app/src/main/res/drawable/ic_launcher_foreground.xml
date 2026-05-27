@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Active Keyboard layout base within 66dp (width 21-87) -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M24,70 h60 v6 h-60 z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M29,64 h6 v4 h-6 z M38,64 h6 v4 h-6 z M47,64 h6 v4 h-6 z M56,64 h6 v4 h-6 z M65,64 h6 v4 h-6 z M74,64 h6 v4 h-6 z" />
+    <!-- Sovereign Crown Shape in Gold -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M30,58 L32,36 L43,46 L54,28 L65,46 L76,36 L78,58 Z" />
+</vector>
